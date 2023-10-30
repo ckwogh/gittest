@@ -12,6 +12,8 @@
 </head>
 <body>
 	${msg}
+	<h3>폐기 기능</h3>
+	<p>아직 커밋하지 않은 상태를 취소하는 기능</p>
 </body>
 <script></script>
 </html>
